@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		4A30BDFD2D6CB0A80016C2CB /* Airbnd.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Airbnd.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4A30BDFD2D6CB0A80016C2CB /* Airbnb.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Airbnb.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -40,7 +40,7 @@
 		4A30BDFE2D6CB0A80016C2CB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4A30BDFD2D6CB0A80016C2CB /* Airbnd.app */,
+				4A30BDFD2D6CB0A80016C2CB /* Airbnb.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4A30BDFC2D6CB0A80016C2CB /* Airbnd */ = {
+		4A30BDFC2D6CB0A80016C2CB /* Airbnb */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4A30BE0C2D6CB0AA0016C2CB /* Build configuration list for PBXNativeTarget "Airbnd" */;
+			buildConfigurationList = 4A30BE0C2D6CB0AA0016C2CB /* Build configuration list for PBXNativeTarget "Airbnb" */;
 			buildPhases = (
 				4A30BDF92D6CB0A80016C2CB /* Sources */,
 				4A30BDFA2D6CB0A80016C2CB /* Frameworks */,
@@ -63,11 +63,11 @@
 			fileSystemSynchronizedGroups = (
 				4A30BDFF2D6CB0A80016C2CB /* Airbnd */,
 			);
-			name = Airbnd;
+			name = Airbnb;
 			packageProductDependencies = (
 			);
 			productName = Airbnd;
-			productReference = 4A30BDFD2D6CB0A80016C2CB /* Airbnd.app */;
+			productReference = 4A30BDFD2D6CB0A80016C2CB /* Airbnb.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4A30BDFC2D6CB0A80016C2CB /* Airbnd */,
+				4A30BDFC2D6CB0A80016C2CB /* Airbnb */,
 			);
 		};
 /* End PBXProject section */
@@ -325,7 +325,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4A30BE0C2D6CB0AA0016C2CB /* Build configuration list for PBXNativeTarget "Airbnd" */ = {
+		4A30BE0C2D6CB0AA0016C2CB /* Build configuration list for PBXNativeTarget "Airbnb" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4A30BE0D2D6CB0AA0016C2CB /* Debug */,
